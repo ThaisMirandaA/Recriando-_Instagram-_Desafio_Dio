@@ -3,7 +3,7 @@
 ###### Minha página de login:
 
 <p align="center">
-<img src="(https://imgur.com/hm09eNx)" max-width=800px</p>
+<img src="https://imgur.com/hm09eNx" max-width=800px</p>
   
  ###### Responsividade:
   
