@@ -1,2 +1,6 @@
-# dio-desafio-instagram
- Recriando a Página Inicial do Instagram com HTML5 e CSS3 | Bootcamp Impulso Javascript Evolution | Digital Innovation One
+# Desafio Dio - Recriando a página inicial do Instagram
+Projeto desenvolvido durante o Bootcamp Impulso Javascript Evolution, da Digital Innovation One. O intuito do projeto foi fixar os conhecimentos sobre CSS Flexbox e responsividade obtidos durante as aulas. 
+
+
+
+
