@@ -3,9 +3,8 @@
 ###### Minha página de login:
 
 <p align="center">
-<img src="https://imgur.com/hm09eNx" max-width=800px</p>
-  
-  [Imgur](https://i.imgur.com/hm09eNx.png)
+<img src="[https://imgur.com/hm09eNx](https://i.imgur.com/hm09eNx.png)" max-width=800px</p>
+
   
  ###### Responsividade:
   
