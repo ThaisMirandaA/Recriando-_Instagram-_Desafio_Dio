@@ -1,11 +1,5 @@
 <h1 align="center"> Desafio Dio - Recriando a página inicial do Instagram </h1>
 
-
-<p align="center">
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ###### Minha página de login:
 
 <p align="center">
