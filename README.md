@@ -2,12 +2,12 @@
 
 ###### Minha página de login:
 
-align="center"><img src="https://i.imgur.com/hm09eNx.png"
+<p align="center"><img src="https://i.imgur.com/hm09eNx.png"</p>
 
   
  ###### Testando a responsividade:
   
-align="center"><img src="https://i.imgur.com/hD90l9f.png"
+<p align="center"><img src="https://i.imgur.com/hD90l9f.png"</p>
 
 ## Sobre ℹ️
 
