@@ -7,8 +7,13 @@
   <a href="#-about">About</a>
 </p>
 
+###### Minha página de login:
+
 <p align="center">
 <img src="https://github.com/ThaisMirandaA/Recriando-_Instagram-_Desafio_Dio/blob/43f4f41dd5c17c38f0705122dd5af19b9d2072ae/img/paginafinal.png" max-width=800px</p>
+  
+ ###### Responsividade:
+  
 
 
 ## Sobre ℹ️
@@ -22,4 +27,5 @@ O projeto foi desenvolvido usando as tecnologias:
 
 - *HTML5*
 - *CSS3*
+- *Visual Studio Code (editor de texto)*
 
