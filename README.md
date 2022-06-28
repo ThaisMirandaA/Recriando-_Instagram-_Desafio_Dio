@@ -3,7 +3,7 @@
 ###### Minha página de login:
 
 <p align="center">
-<img src="https://github.com/ThaisMirandaA/Recriando-_Instagram-_Desafio_Dio/blob/43f4f41dd5c17c38f0705122dd5af19b9d2072ae/img/paginafinal.png" max-width=800px</p>
+<img src="(https://imgur.com/hm09eNx)" max-width=800px</p>
   
  ###### Responsividade:
   
