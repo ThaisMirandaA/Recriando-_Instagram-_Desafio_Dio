@@ -18,7 +18,7 @@
 
 O projeto foi desenvolvido usando as tecnologias:
 
-- *HTML5*
-- *CSS3*
-- *Visual Studio Code (editor de texto)*
+- *HTML5;*
+- *CSS3;*
+- *Visual Studio Code.*
 
