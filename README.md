@@ -1,5 +1,5 @@
 <h1 align="center"> Desafio Dio - Recriando a página inicial do Instagram </h1>
-___
+
 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
