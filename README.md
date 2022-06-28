@@ -7,7 +7,7 @@
   
  ###### Testando a responsividade:
   
- <p align="center"><img src=" https://i.imgur.com/hD90l9f.png" max-width=800px</p>
+ <p align="center"><img src="https://i.imgur.com/hD90l9f.png" max-width=800px</p>
 
 ## Sobre ℹ️
 
